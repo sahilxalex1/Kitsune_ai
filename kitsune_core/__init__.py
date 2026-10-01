@@ -1,0 +1,1 @@
+"""Partitioned Kitsune core package."""
